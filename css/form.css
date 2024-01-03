@@ -1,0 +1,42 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25-lug-2014, 18.30.07
+    Author     : Utente
+*/
+
+input#contatti{
+    width: 300px;
+    
+}
+
+
+.btn {
+  background: #366c88;
+  background-image: -webkit-linear-gradient(top, #366c88, #1B365C);
+  background-image: -moz-linear-gradient(top, #366c88, #1B365C);
+  background-image: -ms-linear-gradient(top, #366c88, #1B365C);
+  background-image: -o-linear-gradient(top, #366c88, #1B365C);
+  background-image: linear-gradient(to bottom, #366c88, #1B365C);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff !important;
+  font-size: 20px;
+  padding: 10px 15px 10px 15px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #366c88;
+  background-image: -webkit-linear-gradient(top, #366c88, #366c88);
+  background-image: -moz-linear-gradient(top, #366c88, #366c88);
+  background-image: -ms-linear-gradient(top, #366c88, #366c88);
+  background-image: -o-linear-gradient(top, #366c88, #366c88);
+  background-image: linear-gradient(to bottom, #366c88, #366c88);
+  text-decoration: none;
+}

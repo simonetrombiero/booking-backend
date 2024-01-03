@@ -1,0 +1,17 @@
+{
+	"processing": "precessando...",
+	"lengthMenu": "Visualizza: _MENU_ ",
+	"zeroRecords": "Nessun dato disponibile.",
+	"info": "da _START_ a _END_ di _TOTAL_ Risultati",
+	"infoEmpty": "0 di 0 di 0 Risultato",
+	"infoFiltered": "(filtrato di _MAX_  Risultati)",
+	"infoPostFix": "",
+	"search": "Cerca",
+	"url": "",
+	"paginate": {
+		"first":    "Primo",
+		"previous": "Indietro",
+		"next":     "Avanti",
+		"last":     "Ultimo"
+	}
+}
